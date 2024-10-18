@@ -10,5 +10,6 @@ const reactElement=React.createElement(
 )
 createRoot(document.getElementById('root')).render(
   // reactElement
-  <App/>
+  <App/> //only function name inside this //
+  
 )
